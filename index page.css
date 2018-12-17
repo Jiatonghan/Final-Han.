@@ -1,0 +1,35 @@
+#backgroundVideo{
+	position:fixed;right:0;bottom:0;
+	min-width: 100%;min-height: 100%;
+	z-index:-100;
+	background: url(3.png) no-reapet;
+	background-size: cover;
+
+	position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.6;
+    z-index: -100000;
+    object-fit: fill;
+}
+
+
+#main-title{
+     color:#1B1B1B;
+     letter-spacing:.2em;
+	 line-height: 23px;
+}
+#main-title:hover{
+   color: #FFF8DC;
+}
+
+#title:hover{
+color: #FFF8DC
+	;}
+
+	body, html {
+		height: :100%;
+	}
